@@ -30,6 +30,7 @@ namespace ScrablerScores
             // Use Dictionary to solve this 
             
             // Luke is odin
+            //dog is god
         }
     }
 }

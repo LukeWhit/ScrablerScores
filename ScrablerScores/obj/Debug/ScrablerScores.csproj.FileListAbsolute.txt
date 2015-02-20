@@ -7,3 +7,6 @@
 C:\Users\Luke\Documents\GitHub\ScrablerScores\ScrablerScores\bin\Debug\ScrablerScores.exe.config
 C:\Users\Luke\Documents\GitHub\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.exe
 C:\Users\Luke\Documents\GitHub\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.pdb
+C:\Users\Chris Hill\Documents\GitHub\ScrablerScores\ScrablerScores\bin\Debug\ScrablerScores.exe.config
+C:\Users\Chris Hill\Documents\GitHub\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.exe
+C:\Users\Chris Hill\Documents\GitHub\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.pdb
