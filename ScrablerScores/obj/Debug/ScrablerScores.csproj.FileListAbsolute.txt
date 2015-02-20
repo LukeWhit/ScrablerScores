@@ -1,0 +1,6 @@
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\bin\Debug\ScrablerScores.exe.config
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\bin\Debug\ScrablerScores.exe
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\bin\Debug\ScrablerScores.pdb
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.exe
+\\data.adir.hull.ac.uk\home4\462\462789\visual studio 2013\Projects\ScrablerScores\ScrablerScores\obj\Debug\ScrablerScores.pdb
